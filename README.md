@@ -1,4 +1,5 @@
-# StokveTakipOtomasyonu
-Selim Savaş - Berke Güneş - Nesne Tabanlı Programlama Proje Ödevi
+# Stock and Tracking Automation
 
-Projenin tanıtım adresi: https://www.youtube.com/watch?v=YVuVBcQybqo&t=1s
+Selim Savaş - Berke Güneş - Object Oriented Programming Project Assignment
+
+Promotion address of the project: https://www.youtube.com/watch?v=YVuVBcQybqo&t=1s
